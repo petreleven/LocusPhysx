@@ -1,0 +1,2 @@
+/usr/bin/ar qc libAero.a CMakeFiles/Aero.dir/Aero.cpp.o
+/usr/bin/ranlib libAero.a

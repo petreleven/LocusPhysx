@@ -1,0 +1,2 @@
+/usr/bin/ar qc libRigidBodyDrawer.a CMakeFiles/RigidBodyDrawer.dir/RigidBodyDrawer.cpp.o
+/usr/bin/ranlib libRigidBodyDrawer.a

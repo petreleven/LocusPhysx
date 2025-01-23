@@ -1,0 +1,98 @@
+[
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build",
+  "command": "/usr/bin/c++  -I/home/peter/Desktop/tests/datadriven/build -I/home/peter/Desktop/tests/datadriven -I/home/peter/Desktop/tests/datadriven/locusBase -I/home/peter/Desktop/tests/datadriven/Entities -I/home/peter/Desktop/tests/datadriven/Vendor/imgui -I/home/peter/Desktop/tests/datadriven/Vendor/rlImgui -I/home/peter/Desktop/tests/datadriven/Vendor/implot -I/home/peter/Desktop/tests/datadriven/../locusBase -std=gnu++20 -o CMakeFiles/Main.dir/main3.cpp.o -c /home/peter/Desktop/tests/datadriven/main3.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/main3.cpp",
+  "output": "CMakeFiles/Main.dir/main3.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/Core.dir/Core.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/Core.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/Core.cpp",
+  "output": "locusBase/CMakeFiles/Core.dir/Core.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/LocusMathFunctions.dir/LocusMathFunctions.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/LocusMathFunctions.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/LocusMathFunctions.cpp",
+  "output": "locusBase/CMakeFiles/LocusMathFunctions.dir/LocusMathFunctions.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/RigidBody.dir/RigidBody.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/RigidBody.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/RigidBody.cpp",
+  "output": "locusBase/CMakeFiles/RigidBody.dir/RigidBody.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/Forcegenerator.dir/Forcegenerator.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/Forcegenerator.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/Forcegenerator.cpp",
+  "output": "locusBase/CMakeFiles/Forcegenerator.dir/Forcegenerator.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/RigidBodyDrawer.dir/RigidBodyDrawer.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/RigidBodyDrawer.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/RigidBodyDrawer.cpp",
+  "output": "locusBase/CMakeFiles/RigidBodyDrawer.dir/RigidBodyDrawer.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/locusBase",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/World.dir/World.cpp.o -c /home/peter/Desktop/tests/datadriven/locusBase/World.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/locusBase/World.cpp",
+  "output": "locusBase/CMakeFiles/World.dir/World.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Entities",
+  "command": "/usr/bin/c++  -I/home/peter/Desktop/tests/datadriven/../locusBase -std=gnu++20 -o CMakeFiles/Aero.dir/Aero.cpp.o -c /home/peter/Desktop/tests/datadriven/Entities/Aero.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Entities/Aero.cpp",
+  "output": "Entities/CMakeFiles/Aero.dir/Aero.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/rlImGui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/rlImgui.dir/rlImGui.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/rlImGui/rlImGui.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/rlImGui/rlImGui.cpp",
+  "output": "Vendor/rlImGui/CMakeFiles/rlImgui.dir/rlImGui.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/imgui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui.cpp",
+  "output": "Vendor/imgui/CMakeFiles/imgui.dir/imgui.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/imgui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_demo.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_demo.cpp",
+  "output": "Vendor/imgui/CMakeFiles/imgui.dir/imgui_demo.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/imgui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_draw.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_draw.cpp",
+  "output": "Vendor/imgui/CMakeFiles/imgui.dir/imgui_draw.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/imgui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_tables.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_tables.cpp",
+  "output": "Vendor/imgui/CMakeFiles/imgui.dir/imgui_tables.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/imgui",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_widgets.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/imgui/imgui_widgets.cpp",
+  "output": "Vendor/imgui/CMakeFiles/imgui.dir/imgui_widgets.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/implot",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/implot.dir/implot.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/implot/implot.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/implot/implot.cpp",
+  "output": "Vendor/implot/CMakeFiles/implot.dir/implot.cpp.o"
+},
+{
+  "directory": "/home/peter/Desktop/tests/datadriven/build/Vendor/implot",
+  "command": "/usr/bin/c++   -std=gnu++20 -o CMakeFiles/implot.dir/implot_items.cpp.o -c /home/peter/Desktop/tests/datadriven/Vendor/implot/implot_items.cpp",
+  "file": "/home/peter/Desktop/tests/datadriven/Vendor/implot/implot_items.cpp",
+  "output": "Vendor/implot/CMakeFiles/implot.dir/implot_items.cpp.o"
+}
+]
